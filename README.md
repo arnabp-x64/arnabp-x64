@@ -45,9 +45,7 @@
 - [x] Learn Python.
 - [x] Learn java
 - [x] Learn Html
-- [ ] Learn Css
+- [x] Learn Css
 - [ ] Learn JavaScript
-- [ ] Learn C
-- [ ] Learn C#
-- [ ] Learn C++
+- [x] Learn C++
 - [ ] Be a Softwaer Developer At ***Microsoft***
