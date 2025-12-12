@@ -1,47 +1,81 @@
-***<h1 align="center"> Hi 👋,</h1>***
-***<h1 align="center"> I'm Arnab Pal </h1>***
+# 👋 Hey there, I'm Arnab
+
+I'm a student and self-taught programmer passionate about **C++**, **Data Structures & Algorithms**, and **software development**.  
+I enjoy creating projects, solving problems, and learning new technologies every day.  
 
 ---
 
-<h3 align="center">A beginner Developer from india.</h3>
+## 🌱 Currently Learning
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabp-x64&label=Profile%20views&color=0e75b6&style=flat" alt="arnabp-x64" /> </p>
-
-
-
----
-
-- 🌱 I’m currently learning ***C++***
-
-- 👨‍💻 All of my projects are available at [https://github.com/arnabp-x64](https://github.com/arnabp-x64)
-
-- 📫 How to reach me **arnabp586@gmail.com**
-
-- ⚡ Fun fact **I want to be a Software Developer at Microsoft**
-
- ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/apex.boy.lynx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apex.boy.lynx" height="30" width="40" /></a>
-</p>
-
-***<h3 align="left">Languages and Tools:</h3>***
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
+- C++ (Basics → Intermediate)  
+- Data Structures & Algorithms  
+- Git & GitHub  
+- Ethical Hacking & Cybersecurity (Beginner)  
 
 ---
 
-# 👊 ***Quick analysis about me***
-- *A beginner software developer from West Bengal*
-- **Studies in Class 8**
-- contact me at my email arnabp586@gmail.com
-## ***Goles***
-- [x] Learn Python.
-- [x] Learn java
-- [x] Learn Html
-- [x] Learn Css
-- [ ] Learn JavaScript
-- [x] Learn C++
-- [ ] Be a Softwaer Developer At ***Microsoft***
+## 💻 Projects
+| Project | Tech | Description | Link |
+|---------|------|-------------|------|
+| **Demo ATM System** | C++ | Simulates ATM operations like deposit & withdrawal | [GitHub](https://github.com/arnabp-x64/Demo_atm_system) |
+| **Leap Year Checker** | C++ | Checks if a year is a leap year | [GitHub](https://github.com/arnabp-x64/Leapyear-Checker) |
+| **More Projects** | TBD | Coming soon | - |
+
+> ⚡ **Tip:** I add projects regularly as I learn new concepts.
+
+---
+
+## 📊 GitHub Stats
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabp-x64&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabp-x64&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabp-x64&theme=tokyonight)  
+
+---
+
+## ⚡ Skills
+### Programming Languages
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MSYS2](https://img.shields.io/badge/MSYS2-1D1D1D?style=for-the-badge&logo=msys2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Other Interests
+- Competitive Programming  
+- SDE Prep  
+- Cybersecurity  
+
+---
+
+## 🏆 Achievements
+- Built my first **C++ ATM system** in 3 days  
+- Completed **Leap Year Checker project**  
+- Actively contributing to GitHub to improve coding skills  
+
+---
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnabp-x64)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabp-x64/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arnabp-x64)
+
+---
+
+## 🌟 Fun Facts
+- Learning by doing is my style  
+- I enjoy breaking problems into small projects  
+- Dream: Become a Software Development Engineer at a top tech company  
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/arnabp-x64/count.svg)
