@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Arnab
-
+![Profile views](https://komarev.com/ghpvc/?username=arnabp-x64&label=Profile%20Views&color=blue&style=flat) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<br>
 I'm a student and self-taught programmer passionate about **C++**, **Data Structures & Algorithms**, and **software development**.  
 I enjoy creating projects, solving problems, and learning new technologies every day.  
 
@@ -33,7 +33,7 @@ I enjoy creating projects, solving problems, and learning new technologies every
 ## 📊 GitHub Stats
 ![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabp-x64&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabp-x64&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnabp-x64&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=arnabp-x64&theme=tokyonight) 
 
 ---
 
@@ -77,5 +77,3 @@ I enjoy creating projects, solving problems, and learning new technologies every
 - Dream: Become a Software Development Engineer at a top tech company  
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/arnabp-x64/count.svg)
