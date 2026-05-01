@@ -15,23 +15,10 @@ I enjoy creating projects, solving problems, and learning new technologies every
 - C++ (Basics → Intermediate)  
 - Data Structures & Algorithms  
 - Git & GitHub  
-- Ethical Hacking & Cybersecurity (Beginner)  
-
----
-
-## 💻 Projects
-| Project | Tech | Description | Link |
-|---------|------|-------------|------|
-| **Demo ATM System** | C++ | Simulates ATM operations like deposit & withdrawal | [GitHub](https://github.com/arnabp-x64/Demo_atm_system) |
-| **Leap Year Checker** | C++ | Checks if a year is a leap year | [GitHub](https://github.com/arnabp-x64/Leapyear-Checker) |
-| **More Projects** | TBD | Coming soon | - |
-
-> ⚡ **Tip:** I add projects regularly as I learn new concepts.
 
 ---
 
 ## 📊 GitHub Stats
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnabp-x64&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabp-x64&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=arnabp-x64&theme=tokyonight) 
 
@@ -39,7 +26,6 @@ I enjoy creating projects, solving problems, and learning new technologies every
 
 ## ⚡ Skills
 ### Programming Languages
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -48,12 +34,7 @@ I enjoy creating projects, solving problems, and learning new technologies every
 ![MSYS2](https://img.shields.io/badge/MSYS2-1D1D1D?style=for-the-badge&logo=msys2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Other Interests
-- Competitive Programming  
-- SDE Prep  
-- Cybersecurity  
 
 ---
 
@@ -66,8 +47,6 @@ I enjoy creating projects, solving problems, and learning new technologies every
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnabp-x64)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabp-x64/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arnabp-x64)
 
 ---
 
